@@ -1,0 +1,35 @@
+{
+  "name": "pnotify",
+  "version": "1.3.2",
+  "description": "Beautiful dependency free notifications - Version 1.3.2 is an Architrave fork to convert v1.3.1 from Bower to Npm packaging",
+  "keywords": [
+    "notice",
+    "notices",
+    "notification",
+    "notifications",
+    "alert",
+    "alerts",
+    "web notifications",
+    "prompts",
+    "non blocking",
+    "notify"
+  ],
+  "homepage": "https://github.com/architrave-de/pnotify",
+  "bugs": {
+    "url": "https://github.com/architrave-de/pnotify/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "Hunter Perrin",
+  "files": [
+    "jquery.pnotify.default.css",
+    "jquery.pnotify.icons.css"
+  ],
+  "main": "jquery.pnotify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/architrave-de/pnotify.git"
+  }
+}
